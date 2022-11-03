@@ -9,4 +9,4 @@ For each testcase, print Yes if Alice is happy and No if she is not, according t
 The judge is case insensitive so you may output the answer in any case. In particular YES, yes, yEsare all considered equivalent toYes`.
 
 <h3 align="left">Constraints</h3>
-1 \leq X, Y \leq 1001≤X,Y≤100
+1≤X,Y≤100
